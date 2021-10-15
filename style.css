@@ -19,6 +19,10 @@ ul li{
     width: 50%;
     padding-top: 30px;
 }
+.half-width img{
+    height: 300px;
+    width: 500px;
+}
 .half-width h6{
     color: #FD511A;
 }
